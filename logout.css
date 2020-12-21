@@ -1,0 +1,119 @@
+@media only screen and(max-width:600px){
+    .me{
+        margin: 0;
+        
+        background-color: red;
+        font-family: sans-serif;
+        background-size:initial;
+        background-position:0vmin;
+        background-size:cover;
+        background-position:center;
+        height: 100%;
+        width: 100%;
+    }
+    }
+    .logo{
+        margin-top: -0.5%;
+        float: left;
+        margin-left: 5%;    
+    
+    }
+    .btn1 input{
+        
+        background-color: #37474F;
+        text-align: center;
+        color: white;
+        font-size: 25px;
+        margin-left: 90%;
+        width: 8%;
+        margin-top: -5.5%;
+        border-radius: 8px;
+    }
+    #i2{
+        background-color:white;
+        text-align: center;
+        color: #37474F;
+        font-size: 25px;
+        margin-left: 81%;
+        width: 8%;
+        margin-top: -6.7%;
+        border-radius: 8px;
+    
+    }
+    #i2:hover{
+        background-color:orangered;
+        color: #37474F;
+    }
+    .copy{
+    margin-top: 35.4%;
+    margin-left: 5%;
+    font-size: 16.0px;
+    font-weight: 400;
+    color: #37474F;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+           
+    .list1 ul{
+        margin-top: -5.5%;
+        float: right;
+        margin-right: 2%;
+        font-family: Segoe UI black;
+        font-size: 16.0px;
+    
+        text-align: right;
+        
+        color: #37474F;
+        padding: 0.1px;
+      }
+       .list1 li{
+           display: inline;
+           margin-top: 10%;
+                          }
+    
+    .box{
+        width: 500px;
+        height: 400px;
+        background: lightgray;
+        color: blue;
+        top: 50%;
+        left: 50%;
+        position: absolute;
+        transform: translate(-50%,-50%);
+        box-sizing: border-box;
+        border-radius: 10%;
+        padding: 20px 30px;
+        margin: auto;
+        font-size: 20px;
+    }
+    h1{
+        margin-left: 5%;
+        font-weight: 10;
+        margin-top: 15%;
+        font-size: 45px;
+        color: #37474F;
+    }
+    
+    
+    ul li a:hover{
+        background-color:#fff;
+        color:#000;
+        }
+        .btn1 input:hover{
+            background-color:#fff;
+            color:#000;
+            }
+            h2{
+                margin-left: 30%;
+        font-weight: 10;
+        margin-top: -5%;
+        font-size: 45px;
+        color: #37474F;
+            }
+            
+            h3 a{
+                margin-left: 40%;
+                font-weight: 10;
+                margin-top: 10%;
+                font-size: 20px;
+                color: #37474F;
+            }
